@@ -1,0 +1,93 @@
+{
+  "tripTitle": "Wonderful Vietnam",
+  "days": [
+    {
+      "day": 1,
+      "title": "Welcome to Ho Chi Minh!",
+      "subtitle": "A New Adventure",
+      "thumb": "/img/city.png",
+      "description": "Every trip is always an indescribable thrill, especially when you go to Asia to discover Vietnam! First stop: Ho Chi Minh",
+      "latitude": 10.793752762202072,
+      "longitude": 106.72782831332628, 
+      "popup": "Bờ Kè Sông Sài Gòn",
+      "dailyJournal": "ciao"
+    },
+    {
+      "day": 2,
+      "title": "Deep Ho Chi Minh",
+      "subtitle": "Tra monumenti e mercatini locali",
+      "thumb": "/img/saigon_river_embankment.jpg",
+      "description": "--",
+      "latitude": 10.793752762202072,
+      "longitude": 106.72782831332628,
+      "popup": "Saigon River Embankment",
+      "dailyJournal": "--"
+    },
+    {
+      "day": 3,
+      "title": "--",
+      "subtitle": "Musei, gallerie d'arte e teatri",
+      "thumb": "/img/",
+      "description": "Il terzo giorno è stato dedicato a esplorare il ricco patrimonio culturale di Parigi. La visita al Louvre è stata un'esperienza emozionante, con capolavori come la Monna Lisa e La Vittoria di Samotracia che ci hanno lasciato senza fiato. Nel pomeriggio, ci siamo diretti al Museo d'Orsay, dove l'arte impressionista ha preso vita attraverso le opere di Monet, Van Gogh e altri maestri. La serata si è conclusa con uno spettacolo teatrale che ha offerto uno sguardo sulla vibrante scena culturale di Parigi.",
+      "latitude": 10.793752762202072,
+      "longitude": 10.793752762202072,
+      "popup": "Louvre e Museo d'Orsay",
+      "dailyJournal": "Oggi l'arte è stata protagonista. Il Louvre e il Museo d'Orsay ci hanno regalato emozioni forti, e lo spettacolo teatrale della sera ha offerto un altro aspetto della cultura parigina. Un'esperienza indimenticabile!"
+    },
+    {
+      "day": 4,
+      "title": "--",
+      "subtitle": "Escursioni, parchi e panorami mozzafiato",
+      "thumb": "/img/",
+      "description": "Dopo aver assaporato l'arte e la cultura, il quarto giorno è stato dedicato alla bellezza naturale di Parigi. Abbiamo visitato il Giardino delle Tuileries, un'oasi di pace situata nel cuore della città, dove ci siamo rilassati tra fiori e statue. Successivamente, ci siamo diretti al Parco di Belleville, che offre una vista panoramica mozzafiato su tutta la città. La giornata si è conclusa con una passeggiata nel Bois de Boulogne, un vasto parco che ci ha offerto un momento di tranquillità e contatto con la natura.",
+      "latitude": 10.793752762202072,
+      "longitude": 10.793752762202072,
+      "popup": "Giardini delle Tuileries e Bois de Boulogne",
+      "dailyJournal": "Oggi abbiamo trovato un equilibrio tra cultura e natura. I Giardini delle Tuileries erano splendidi e la vista dal Parco di Belleville è stata incredibile. Il Bois de Boulogne è stato un ottimo finale per una giornata all'insegna della serenità."
+    },
+    {
+      "day": 5,
+      "title": "--",
+      "subtitle": "Scoprendo i sapori autentici della città",
+      "thumb": "/img/",
+      "description": "Il quinto giorno è stato un'avventura culinaria. Abbiamo iniziato con una tipica colazione parigina a base di croissant e caffè in un caffè storico. A pranzo, ci siamo concessi un autentico coq au vin in un ristorante locale, seguito da una degustazione di formaggi in una fromagerie rinomata. La giornata si è conclusa con una cena elegante in un ristorante stellato, dove abbiamo assaporato piatti creativi e sorprendenti che hanno deliziato i nostri palati.",
+      "latitude": 10.793752762202072,
+      "longitude": 10.793752762202072,
+      "popup": "Caffè e Ristoranti di Parigi",
+      "dailyJournal": "Oggi abbiamo esplorato Parigi attraverso i suoi sapori. Ogni pasto è stato un'esperienza unica, dalla colazione al ristorante stellato. La cucina francese è straordinaria e abbiamo gustato piatti che ricorderemo a lungo."
+    },
+    {
+      "day": 6,
+      "title": "--",
+      "subtitle": "Esplorando i dintorni di Parigi",
+      "thumb": "/img/",
+      "description": "Il sesto giorno ci ha portato oltre i confini della città per scoprire i meravigliosi dintorni di Parigi. Abbiamo visitato la Reggia di Versailles, con i suoi splendidi giardini e le sale sfarzose, che ci hanno fatto rivivere il lusso dell'era reale. Nel pomeriggio, una breve escursione ci ha portato a Giverny, dove abbiamo passeggiato nei giardini che hanno ispirato Claude Monet. La bellezza della campagna francese ci ha colpito profondamente e ci ha offerto una pausa rinfrescante dalla vita urbana.",
+      "latitude": 10.793752762202072,
+      "longitude": 10.793752762202072,
+      "popup": "Versailles e Giverny",
+      "dailyJournal": "Oggi abbiamo esplorato la bellezza dei dintorni di Parigi. La Reggia di Versailles è stata imponente, e Giverny ci ha mostrato un lato tranquillo e pittoresco della Francia. Un'esperienza che ci ha arricchito e ristorato."
+    },
+    {
+      "day": 7,
+      "title": "--",
+      "subtitle": "Spa, parchi e momenti di tranquillità",
+      "thumb": "/img/",
+      "description": "Dopo giorni di intensa esplorazione, abbiamo dedicato il settimo giorno al relax. La mattinata è iniziata con una sessione di spa in uno dei centri benessere più rinomati di Parigi, che ci ha offerto un momento di totale relax. Dopo la spa, abbiamo passeggiato nei Giardini di Lussemburgo, godendo della bellezza dei giardini e del lago. Nel pomeriggio, ci siamo rilassati leggendo un libro in un caffè tranquillo con vista sulla Senna, concludendo così una giornata all'insegna della tranquillità e del benessere.",
+      "latitude": 10.793752762202072,
+      "longitude": 10.793752762202072,
+      "popup": "Giardini di Lussemburgo",
+      "dailyJournal": "Questa giornata è stata un vero toccasana per il corpo e la mente. La spa è stata rigenerante, e passare del tempo nei Giardini di Lussemburgo ci ha dato la serenità necessaria per affrontare gli ultimi giorni del nostro viaggio."
+    },
+    {
+      "day": 8,
+      "title": "I'll Miss You Vietnam!",
+      "subtitle": "Riflessioni su un viaggio indimenticabile",
+      "thumb": "/img/airplane.png",
+      "description": "L'ultimo giorno a Parigi è stato dedicato alla riflessione e ai saluti finali. Dopo un'ultima colazione in un caffè con vista sulla Torre Eiffel, abbiamo passeggiato lungo gli Champs-Élysées, cercando di catturare ogni dettaglio della città nella nostra memoria. Abbiamo anche fatto una breve visita alla libreria Shakespeare and Company, un luogo iconico che racchiude il fascino intellettuale di Parigi. Con il cuore colmo di ricordi, abbiamo detto addio alla città delle luci, certi che torneremo un giorno.",
+      "latitude": 10.793752762202072,
+      "longitude": 10.793752762202072,
+      "popup": "Torre Eiffel e Champs-Élysées",
+      "dailyJournal": "Dire addio a Parigi è stato difficile, ma siamo grati per ogni momento trascorso qui. Ogni angolo della città ha una storia da raccontare, e abbiamo avuto il privilegio di viverne alcune. Questo viaggio resterà per sempre nei nostri cuori."
+    }
+  ]
+}
